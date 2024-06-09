@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Python.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A screen showing Python code";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Décor Den",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An entreprenuerial project for ecommerce, created the website and managed the social media accounts.",
+    url: "https://www.instagram.com/decordenofficial/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cafe Kiosk",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Spearheaded the business plan development for a hypothetical startup café, crafting a concept with a target market and product offerings. This plan included comprehensive financial projections with revenue forecasts, cost analysis, and break-even points. Also conducted market research to identify trends and analyze competitors, using these insights to create a viable expansion plan with potential new locations and target demographics.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "",
+    url: "",
   },
 ];
 

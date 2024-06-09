@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "Professionally, an aspiring specialist in the field of accounting and finance, committed to mastering the complexities of financial systems. Naturally, an artist inclined towards poetry, creativity, and philanthropy.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27192,13 +27192,13 @@ const imageAltText = "purple and blue abstract background";
     "Digital Marketing",
     "Data Visualization",
     "User Experience",
-    "", 
+    "Python", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "Beyond my professional and personal traits, a devoted learner with a keen interest in expanding her knowledge across various domains. I invest significant time in learning both human and machine languages (Turkish, Arabic, Python, and C#). This blend of financial expertise, creative thinking, social responsibility, and technical curiosity defines me as a professional.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28760,22 +28760,12 @@ const imageAltText = "A screen showing Python code";
  */ const projectList = [
     {
         title: "D\xe9cor Den",
-        description: "An entreprenuerial project for ecommerce, created the website and managed the social media accounts.",
+        description: "Co-founded the e-commerce startup “D\xe9cor Den”, demonstrated my entrepreneurial skills by financing operations, supervising tasks, and launching a marketing campaign. Created and maintained WordPress website and managed social media accounts, enhancing the online presence.",
         url: "https://www.instagram.com/decordenofficial/"
     },
     {
         title: "Cafe Kiosk",
         description: "Spearheaded the business plan development for a hypothetical startup caf\xe9, crafting a concept with a target market and product offerings. This plan included comprehensive financial projections with revenue forecasts, cost analysis, and break-even points. Also conducted market research to identify trends and analyze competitors, using these insights to create a viable expansion plan with potential new locations and target demographics.",
-        url: ""
-    },
-    {
-        title: "",
-        description: "",
-        url: ""
-    },
-    {
-        title: "",
-        description: "",
         url: ""
     }, 
 ];
@@ -28791,7 +28781,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 62,
+                lineNumber: 50,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28816,12 +28806,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 65,
+                            lineNumber: 53,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 64,
+                        lineNumber: 52,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28840,12 +28830,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 75,
+                                            lineNumber: 63,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 74,
+                                        lineNumber: 62,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28853,30 +28843,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 77,
+                                        lineNumber: 65,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 73,
+                                lineNumber: 61,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 71,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 63,
+                lineNumber: 51,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 61,
+        lineNumber: 49,
         columnNumber: 5
     }, undefined);
 };

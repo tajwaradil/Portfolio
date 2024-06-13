@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/Python.jpg";
 
-const imageAltText = "A screen showing Python code";
+const imageAltText = "A screen showing Python code.";
 
 /**
  * Project list
@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Décor Den",
     description:
-      "An entreprenuerial project for ecommerce, created the website and managed the social media accounts.",
+      "Co-founded the e-commerce startup “Décor Den”, demonstrated my entrepreneurial skills by financing operations, supervising tasks, and launching a marketing campaign. Created and maintained WordPress website and managed social media accounts, enhancing the online presence.",
     url: "https://www.instagram.com/decordenofficial/",
   },
   {
@@ -41,19 +41,7 @@ const projectList = [
     description:
       "Spearheaded the business plan development for a hypothetical startup café, crafting a concept with a target market and product offerings. This plan included comprehensive financial projections with revenue forecasts, cost analysis, and break-even points. Also conducted market research to identify trends and analyze competitors, using these insights to create a viable expansion plan with potential new locations and target demographics.",
     url: "",
-  },
-  {
-    title: "",
-    description:
-      "",
-    url: "",
-  },
-  {
-    title: "",
-    description:
-      "",
-    url: "",
-  },
+  },  
 ];
 
 const Portfolio = () => {
